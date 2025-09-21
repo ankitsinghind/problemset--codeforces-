@@ -12,8 +12,10 @@ int main()
         string bit;
         cin >> bit;
 
-        // std::string::npos is a special constant used to indicate that something was not found in a string.
-        
+        /*std::string::npos is a special constant used to indicate that something was not found in a string.
+        When you use functions like .find(), they return the position of the substring if found.
+        If the substring is not found, .find() returns string::npos.*/
+
         if (bit.find("++") != string ::npos)
         {
             count++;
