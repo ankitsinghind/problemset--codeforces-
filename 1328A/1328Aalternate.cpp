@@ -1,3 +1,6 @@
+// Brute force method is Too slow for big inputs
+// use 1328A.cpp for large and optimization
+
 #include <bits/stdc++.h>
 using namespace std;
 
