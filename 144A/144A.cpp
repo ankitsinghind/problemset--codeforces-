@@ -93,5 +93,7 @@ int main()
         swaps--;
     }
 
+    cout << swaps;
+
     return 0;
 }
