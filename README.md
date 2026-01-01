@@ -20,7 +20,3 @@ It serves as both a personal archive and a resource for fellow programmers who w
    ```
    
 ---
-
-## License
-This repository is licensed under the MIT License.
-Feel free to use the code for learning and practice.
